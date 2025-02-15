@@ -14,7 +14,8 @@ There's also signaling server to establish a WebRTC connection between the two p
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/openai-webrtc-integration.git
+   git clone https://github.com/easekode/openai-webrtc
    cd openai-webrtc-integration
    ```
+
 # openai-webrtc
